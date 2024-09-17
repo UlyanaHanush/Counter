@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://github.com/UlyanaHanush/Counter/blob/main/image/yaPracticum.png" align="center" alt="Условия задачи" />
+ <img width="100px" src="https://github.com/UlyanaHanush/Counter/blob/main/image/yaPracticum.jpg" align="center" alt="Условия задачи" />
  <h2 align="center">Условия задачи</h2>
  <p align="center">Спринт 03</p>
 <p align="center">
