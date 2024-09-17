@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://github.com/UlyanaHanush/Counter/blob/main/image/yaPracticum.jpg" align="center" alt="Condition task" />
+ <img width="400px" src="https://github.com/UlyanaHanush/Counter/blob/main/image/yaPracticum.jpg" align="center" alt="Condition task" />
  <h2 align="center">Condition task</h2>
  <p align="center">Sprint 03</p>
 <p align="center">
