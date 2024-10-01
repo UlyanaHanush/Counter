@@ -46,7 +46,7 @@
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" image="trash" catalog="system"/>
                                 <connections>
-                                    <action selector="zeroingAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="EcP-6v-sjq"/>
+                                    <action selector="resetAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Tec-fG-kR3"/>
                                 </connections>
                             </button>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="mH0-9g-9mW">
@@ -81,7 +81,7 @@
                         <outlet property="historyCounter" destination="mH0-9g-9mW" id="fw2-rI-zvl"/>
                         <outlet property="minusButton" destination="7IS-op-Bra" id="BbB-wr-Jwd"/>
                         <outlet property="plusButton" destination="ILx-sy-XPr" id="6Iz-47-BtF"/>
-                        <outlet property="zeroingButton" destination="W3r-ga-flp" id="RYa-sL-FdP"/>
+                        <outlet property="resetButton" destination="W3r-ga-flp" id="7UH-aH-eBR"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
@@ -100,10 +100,10 @@
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
         <systemColor name="systemCyanColor">
-            <color red="0.19607843137254902" green="0.67843137254901964" blue="0.90196078431372551" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.1960784314" green="0.67843137249999996" blue="0.90196078430000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="systemPinkColor">
-            <color red="1" green="0.17647058823529413" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="1" green="0.1764705882" blue="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
